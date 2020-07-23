@@ -1,0 +1,1 @@
+export const API_URL = 'https://5f0c2a719d1e150016b37df8.mockapi.io/codefun/';
